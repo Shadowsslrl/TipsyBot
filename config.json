@@ -1,0 +1,21 @@
+{
+  "app": {
+    "name": "TipsyBot",
+    "version": "1.0.0",
+    "description": "Community Bot with Lightning-Fast Technology"
+  },
+  "legal": {
+    "terms_of_service": "https://my-cool-app.com/terms-of-service",
+    "privacy_policy": "https://my-cool-app.com/privacy-policy",
+    "contact_email": "privacy@my-cool-app.com"
+  },
+  "account": {
+    "delete_account_url": "https://my-cool-app.com/delete-account",
+    "support_url": "https://my-cool-app.com/support"
+  },
+  "features": {
+    "jokes_enabled": true,
+    "community_tools": true,
+    "real_time_interactions": true
+  }
+}
